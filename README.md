@@ -50,7 +50,9 @@ plt.plot([min(X), max(X)], [min(Y_pred), max(Y_pred)], color='red') # predicted
 plt.show()
 ```
 ## Output
-<img width="1013" height="628" alt="Screenshot 2026-11-23 104818" src="https://github.com/user-attachments/assets/8e121243-d729-455c-9ac4-8897e4b26c04" />
+<img width="979" height="581" alt="Screenshot 2026-11-23 111239" src="https://github.com/user-attachments/assets/6e74af63-b908-484a-894c-d93ac00f9dbb" />
+<img width="852" height="507" alt="Screenshot 2026-11-23 111251" src="https://github.com/user-attachments/assets/4a2419e0-bfde-4199-8214-2fccf6e67098" />
+
 
 
 
